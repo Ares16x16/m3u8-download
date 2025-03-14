@@ -1,10 +1,10 @@
-# Sakurazaka Audio Downloader
+# Audio Downloader m3u8
 
 A tool specifically designed to download and convert Brightcove audio files to MP3 format.
 
 ## Description
 
-This tool helps you download audio content from Brightcove media streams. It converts m3u8 streams to MP3 audio files, particularly optimized for downloading "感謝祭Voice" content from Sakurazaka46 official website or similar sources.
+This tool helps you download audio content from Brightcove media streams. It converts m3u8 streams to MP3 audio files, particularly optimized for downloadin content.
 
 ## Prerequisites
 
