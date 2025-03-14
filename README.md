@@ -16,7 +16,7 @@ This tool helps you download audio content from Brightcove media streams. It con
 
 ### Step 1: Find the Audio Links
 
-1. Visit the Sakurazaka46 website or other Brightcove-based audio source
+1. Visit Brightcove-based audio source
 2. Open the browser Developer Tools by pressing `F12` or right-clicking and selecting "Inspect"
 3. Navigate to the "Network" tab in the Developer Tools
 4. Play the audio you want to download
